@@ -14,4 +14,11 @@ Git configuration
 
 git config --global user.name "name"  
 
-git config --global user.email "email"  
+git config --global user.email "email" 
+
+
+steps:  
+1. git add .  
+2. git status  
+3. git commit -m "commit message"  
+4. git push origin main  
